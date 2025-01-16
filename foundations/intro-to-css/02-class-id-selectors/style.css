@@ -1,0 +1,22 @@
+.first {
+    background-color: pink;
+}
+
+#second {
+    font-size: 50px;
+    color: blue;
+}
+
+.third {
+    background-color: pink;
+    font-size: 50px;
+}
+
+#fourth {
+    background-color: green;
+    font-weight: bold;
+}
+
+.fifth {
+    background-color: pink;
+}
